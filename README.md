@@ -1,25 +1,24 @@
 # Sistem-Manajemen-Perpustakaan
 Sistem manajemen perpustakaan menggunakan Java dengan database SQL
 
-DOWNLOAD folder TUBES_PBO.zip dan file birojasa.sql
+Proyek Sistem manajemen perpustakaan sederhana ini bertujuan untuk mengembangkan sistem manajemen perpustakaan yang terintegrasi untuk mempermudah pengelolaan data buku, anggota, serta aktivitas peminjaman dan pengembalian. Sistem ini akan membantu pustakawan dan anggota perpustakaan untuk mengakses layanan dengan lebih efisien.  
 
-Cara pasang file java ini ke netbeans di device kalian
-1. Unzip TUBES_PBO
-2. Di netbeans bagian atas ada open project atau dengan shortcut ctrl + shift + o
-3. Cari folder TUBES_PBO yang sudah kalian unzip tadi dan pilih folder TUBES_PBO nya langsung. Jangan dibuka pokoknya langsung masukkin foldernya aja.
-4. Udah deh selesai tinggal databsenya
+DOWNLOAD folder Perpustakaan.zip dan file perpus.sql
 
-Cara import database ke PhpMyAdmin
+Cara pasang file Perpustakaan.zip ke netbeans:
+1. Unzip Perpustakaan.zip
+2. Buka netbeans
+3. Klik Open project atau dengan shortcut ctrl + shift + o
+4. Pilih folder Perpustakaan (Yang telah diunzip)
+
+Cara import database ke PhpMyAdmin:
 1. Buka XAMPP 
 2. Aktifkan Apache dan MySQL
-3. Klik "Admin" pada bagian MySQL (yang sejajar sama tombol "MySQL")
-4. Kalian akan masuk ke PhpMyAdmin kan di browser
-5. Pada bagian atas ada tulisan "Import", kalian klik itu
-6. Lalu kalian masukkan file birojasa.sql 
-7. Terus scroll terus ke Bawah jangan ada yang diubah setingannya
-8. Klik "Import"
-9. Harusnya udah bisa klo ada masalah coba tanyakan pada rumput yang bergoyang
+3. Klik "Admin" pada bagian MySQL
+4. Kalian akan masuk ke PhpMyAdmin di browser
+5. Klik tab Import di menu atas
+6. Pilih Choose File
+7. Pilih file perpus.sql
+8. Jangan ubah pengaturan, lalu klik Go
 
-dah kalian tinggal bikin diagram, pahamin kodenya, ppt dll
-
-GOOD LUCK
+Semoga membantu!
